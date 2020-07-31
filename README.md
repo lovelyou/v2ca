@@ -4,7 +4,7 @@
 每分检查v2ray 和caddy运行情况，防止v2ray 和caddy 被杀死的情况，自动重启服务。
 
 
-wget https://raw.githubusercontent.com/lovelyou/v2ca/master/v2ca.sh
+wget https://raw.githubusercontent.com/lovelyou/v2ca/master/v2ca.sh  
 chmod +x v2ca.sh
 
 
